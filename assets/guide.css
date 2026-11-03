@@ -309,3 +309,6 @@ footer.bot .shop{font-size:13px;opacity:.85}footer.bot .shop a{color:inherit}
 .ver{font:500 11px Inter;letter-spacing:1px;color:var(--muted);border:1px solid currentColor;border-radius:999px;padding:2px 8px;margin-right:14px;opacity:.75;white-space:nowrap}.dark .ver,.jband .ver{color:rgba(255,255,255,.7)}.fbar .ver{margin:0 18px 0 0}
 .libhead .lk{font:500 12px Inter;letter-spacing:3px;text-transform:uppercase;color:var(--or);margin-bottom:14px}
 .jhero .jen{margin-top:14px;font-size:14px;letter-spacing:.5px;color:#DAFF02;opacity:.9}
+.ver{text-decoration:none}a.ver:hover{opacity:1;color:var(--or)}
+.hist{max-width:760px;padding-bottom:40px}.hist h2{font-family:'Inter Tight',Inter,sans-serif;font-weight:600;font-size:26px;margin:36px 0 10px;display:flex;align-items:baseline;gap:14px;border-top:1px solid var(--line);padding-top:24px}
+.hist .vd{font:400 15px Inter;color:var(--muted)}.hist ul{margin:0;padding-left:20px}.hist li{font-size:17px;line-height:1.55;margin:6px 0}

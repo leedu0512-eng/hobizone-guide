@@ -21,6 +21,11 @@
   document.fonts && document.fonts.ready.then(fitFrames);
   fitFrames();
 
+  // ---------- version badge -> version history (changelog.html at the site root) ----------
+  var gs = document.querySelector('script[src$="assets/guide.js"]');
+  if (gs) { var root = gs.getAttribute('src').replace(/assets\/guide\.js$/, '');
+    document.querySelectorAll('a[data-ver]').forEach(function (a) { a.href = root + 'changelog.html'; }); }
+
   // ---------- comments ----------
   // Sends straight from the page (Web3Forms, key in config.js). Offline: queued in this browser and sent later.
   // No key set: falls back to the visitor's email app (mailto).
