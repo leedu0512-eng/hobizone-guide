@@ -2,6 +2,11 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.0.7 (3.11.2026)
+- A user pointed out that many pilots drop their head without noticing, which aims the goggle antennas the wrong way. Why does my video suck? now explains it, on the slide and in the text.
+- A user suggested clearer Estonian for the takeaway of How a drone moves. It now reads "Kalluta drooni, et liikuda edasi. Tõmme hoiab sind õhus."
+- Know your channel: the pit mode advice is clearer. Pit mode still reaches the pilot next to you, so don't power up at the bench while others fly.
+
 ## v1.0.6 (3.11.2026)
 - A user noticed that the letters š and ž showed up in the wrong font. Fixed on every page and slide.
 - A user pointed out that the camera angle slide (05) only wrote the angle and didn't show it, and that the angles were off. The camera is now drawn tilted, the examples are 15° and 55°, and there's a rough guide: 0–20° smooth flying, about 35° freestyle, 45–65° racing.
