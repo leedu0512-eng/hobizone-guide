@@ -3,6 +3,9 @@
 The number in the header of every page (for example "v1.0") tells which build you are looking at.
 Compare the live site with the Dropbox copy: if the numbers differ, the Dropbox copy has changes that are not live yet.
 
+## v1.0.3 (3.11.2026)
+- Quick Guides front page: removed the menu in the header (path, tools, library). The logo now leads to the library.
+
 ## v1.0.2 (3.11.2026)
 - The site opens in Estonian (et/library.html).
 - New look for the library (front page) title.
