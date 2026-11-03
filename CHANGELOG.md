@@ -2,6 +2,11 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.0.9 (3.11.2026)
+- A partner reviewed the Estonian texts: clearer instructions, fixed grammar, and one word for one thing in both books.
+- Droonijalka book: the pictures now have short descriptions for screen readers, and the charger picture says which current to use for the B200.
+- In development, thanks to Peeter's questions: connecting the B200 to another ExpressLRS radio, building a drone soccer cage at home, and running games and tournaments with the Droonijalka app.
+
 ## v1.0.8 (3.11.2026)
 - New guide: The Kollane field code. The five rules of our outdoor field, the channel plan and how to change channel at the field.
 - New guide: Where am I allowed to fly? Built from the questions asked most often on our Discord: indoors, A1 and A3, goggles and observers, 120 m, the drone map, paperwork and age.
