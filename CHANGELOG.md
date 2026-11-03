@@ -2,6 +2,9 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.0.5 (3.11.2026)
+- Janno noticed that the Quick reference (Meelespea) page was empty. It now shows every "Remember" slide.
+
 ## v1.0.4 (3.11.2026)
 - New: this page. Click the version number in the header of any page to see what changed.
 
