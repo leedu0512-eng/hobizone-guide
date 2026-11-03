@@ -2,6 +2,10 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.0.8 (3.11.2026)
+- New guide: The Kollane field code. The five rules of our outdoor field, the channel plan and how to change channel at the field.
+- New guide: Where am I allowed to fly? Built from the questions asked most often on our Discord: indoors, A1 and A3, goggles and observers, 120 m, the drone map, paperwork and age.
+
 ## v1.0.7 (3.11.2026)
 - A user pointed out that many pilots drop their head without noticing, which aims the goggle antennas the wrong way. Why does my video suck? now explains it, on the slide and in the text.
 - A user suggested clearer Estonian for the takeaway of How a drone moves. It now reads "Kalluta drooni, et liikuda edasi. Tõmme hoiab sind õhus."
