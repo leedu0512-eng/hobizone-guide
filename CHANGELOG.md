@@ -2,6 +2,10 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.6 (4.11.2026)
+- Kriss pointed out that the honest answer to "Do I need it?" in The A1/A3 test is simply yes. The guide now says so: if you fly drones, get it, even when the law doesn't ask, because it's 10 € and one of the easiest tests you'll take. Our club flies with the certificate.
+- Kriss found the pictures on three slides of The A1/A3 test weak. Logging in now shows the way in (Smart-ID or Mobile-ID into LOIS, or another EASA country), Passed shows the certificate from email to phone and its 5 years, and the other-country slide shows Luxembourg's test taken from home and a certificate valid in every EASA country.
+
 ## v1.1.5 (4.11.2026)
 - New guide: The A1/A3 test, step by step. A user asked how to get the certificate: the four steps in LOIS, logging in, the test and retakes, the traps for experienced pilots, taking the test in another EASA country such as Luxembourg, and our spring test at HOBIzone.
 - New guide: How batteries work. A user asked for it: volts, mAh, Wh and the C rating, cells in a row, the voltages to know, why we fly LiPo and not the batteries around you, and how to charge and store a pack so it lasts.
