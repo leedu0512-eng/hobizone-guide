@@ -2,6 +2,9 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.1 (4.11.2026)
+- A user pointed out that a pilot in goggles can't see a pointing arm. In Being a spotter and Where am I allowed to fly?, the spotter now stands with a hand on the pilot's shoulder and eyes on the sky, and cups a hand to call out.
+
 ## v1.1.0 (4.11.2026)
 - New guide: Being a spotter. Where to stand, what to watch, the five calls, when to say "Land!", and five minutes for parents before the first battery. The drone doesn't matter: land first, argue later.
 - A user asked for the Estonian texts to read like Estonian, not like a translation from English. Every guide, the Droonijalka book and the page texts were rewritten from the meaning: shorter sentences, natural word order, fewer borrowed phrases, and checked with an Estonian language tool.
