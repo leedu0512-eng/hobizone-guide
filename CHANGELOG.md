@@ -2,6 +2,9 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.4 (4.11.2026)
+- A user asked for more on the noise floor in Why does my video suck?. It now covers echoes indoors (signals bouncing off walls, floor and ceiling), why a bigger, more sensitive goggle antenna isn't always better when there's lots of interference, and that noise often sits on only part of the band, so another channel or a good spectrum analyser that covers 5.8 GHz can help. A new slide covers the other kinds of interference: same or next channel, mixing (IMD), overload, dirty transmitters, antenna tuning and dead spots.
+
 ## v1.1.3 (4.11.2026)
 - A user asked for a new chapter in the book: Licences and exams. Where am I allowed to fly? has moved there. Next to come: the A1/A3 test, registering as an operator, and the sport licences (FAI and MultiGP), as processes, not exam material.
 - A user noticed that on a phone the lessons in the book scrolled sideways. They now stack, so you only scroll down.
