@@ -2,6 +2,16 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.5 (4.11.2026)
+- New guide: The A1/A3 test, step by step. A user asked how to get the certificate: the four steps in LOIS, logging in, the test and retakes, the traps for experienced pilots, taking the test in another EASA country such as Luxembourg, and our spring test at HOBIzone.
+- New guide: How batteries work. A user asked for it: volts, mAh, Wh and the C rating, cells in a row, the voltages to know, why we fly LiPo and not the batteries around you, and how to charge and store a pack so it lasts.
+- New guide: Battery safety. A user asked for it: the warning signs and the smell, how fast a LiPo fire goes and how big the flame gets, where to charge at home and at the club, storing, getting rid of old packs and flying with LiPos.
+- A user asked us to check the battery fire advice. Safety now says it right: water is the right way to cool a burning LiPo (the "never water" rule is for a different kind of lithium battery), sand doesn't cool it, and a burnt pack stays in a bucket of water outside for a day.
+- A user pointed out that the propeller demo in Propellers should never use a live drone. It now uses a desk fan or a slow motor.
+- A user asked to clear up who is in charge when a pilot is under 16: the coach is the responsible pilot. Younger pilots may fly FPV outdoors under the direct supervision of a qualified pilot.
+- Droonijalka book: a user asked for „vahetusmängija“ instead of „varumängija“.
+- Numbered lists and tables in the articles now show as lists and tables.
+
 ## v1.1.4 (4.11.2026)
 - A user asked for more on the noise floor in Why does my video suck?. It now covers echoes indoors (signals bouncing off walls, floor and ceiling), why a bigger, more sensitive goggle antenna isn't always better when there's lots of interference, and that noise often sits on only part of the band, so another channel or a good spectrum analyser that covers 5.8 GHz can help. A new slide covers the other kinds of interference: same or next channel, mixing (IMD), overload, dirty transmitters, antenna tuning and dead spots.
 
