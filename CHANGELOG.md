@@ -2,6 +2,12 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.7 (4.11.2026)
+- A user found the pictures in How batteries work and Battery safety too plain. Every slide in both talks is redrawn: each battery in its real shape (AA, car battery, phone battery, round 18650 and 21700 cells, LiFePO4, and the LiPo with its power and balance leads), a cell drawn as a fuel tank for the voltages, amp-hours and Wh drawn as battery-shaped tanks, the flame drawn to scale next to a person, a room seen from above for where to charge, and a picture for every step of what to do in a fire.
+- A user asked whether a LiPo really is a lithium-ion battery. The guides now say it more precisely: a LiPo (lithium-ion polymer) belongs to the lithium-ion family, but it isn't the same as the round Li-ion cells. The fire advice says why water is right: a LiPo has no lithium metal in it.
+- Peeter pointed out that the B200 drone soccer drone flies on a 2S pack, not 4S. How batteries work now has a 2S row in the table.
+- A user corrected the flying rules in Battery safety: for LiPos airlines want packs at storage voltage (not a percentage), each pack in a LiPo safe bag, and usually no more than 6 spares per person. The airline sets the rules but airport security checks your bags, so carry a LiPo checker to show the voltage. They mostly care about Wh, and every airline is different, so check yours before every trip.
+
 ## v1.1.6 (4.11.2026)
 - Kriss pointed out that the honest answer to "Do I need it?" in The A1/A3 test is simply yes. The guide now says so: if you fly drones, get it, even when the law doesn't ask, because it's 10 € and one of the easiest tests you'll take. Our club flies with the certificate.
 - Kriss found the pictures on three slides of The A1/A3 test weak. Logging in now shows the way in (Smart-ID or Mobile-ID into LOIS, or another EASA country), Passed shows the certificate from email to phone and its 5 years, and the other-country slide shows Luxembourg's test taken from home and a certificate valid in every EASA country.
