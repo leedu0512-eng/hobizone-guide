@@ -2,6 +2,9 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.2 (4.11.2026)
+- Kriss suggested that the spotter and pilot agree on a few landmarks before flying: the big tree, the gate, the shed. Being a spotter now has it in the five-minute briefing and in the calls ("Heli, over the big tree!"). Landmarks also help a pilot who has lost their bearings in goggles.
+
 ## v1.1.1 (4.11.2026)
 - A user pointed out that a pilot in goggles can't see a pointing arm. In Being a spotter and Where am I allowed to fly?, the spotter now stands with a hand on the pilot's shoulder and eyes on the sky, and cups a hand to call out.
 
