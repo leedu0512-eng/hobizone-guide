@@ -2,6 +2,11 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.3 (4.11.2026)
+- A user asked for a new chapter in the book: Licences and exams. Where am I allowed to fly? has moved there. Next to come: the A1/A3 test, registering as an operator, and the sport licences (FAI and MultiGP), as processes, not exam material.
+- A user noticed that on a phone the lessons in the book scrolled sideways. They now stack, so you only scroll down.
+- Peeter pointed out that Why does my video suck? left out other signals. A new slide explains the noise floor: WiFi, Bluetooth and DJI gear nearby, power lines and cell towers further away, and why a higher floor hurts both video and radio control.
+
 ## v1.1.2 (4.11.2026)
 - Kriss suggested that the spotter and pilot agree on a few landmarks before flying: the big tree, the gate, the shed. Being a spotter now has it in the five-minute briefing and in the calls ("Heli, over the big tree!"). Landmarks also help a pilot who has lost their bearings in goggles.
 

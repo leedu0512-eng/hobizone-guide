@@ -252,7 +252,7 @@ body.library{background:#faf8f4}
 .shelf.live img{width:100%;border-radius:10px;margin-top:auto}.shelf.live .o{color:#ff7a45;font-weight:500}.shelf.live:hover{outline:3px solid #F04A0E}
 .shelf.droonijalka{background:#3D195B;border:2px solid #3D195B;color:#fff}.shelf.droonijalka .w{color:#DAFF02}.shelf.droonijalka .n{color:#fff}.shelf.droonijalka .x{color:rgba(255,255,255,.82)}
 @media (max-width:640px){.wrap2{padding-left:16px;padding-right:16px}.chap{grid-template-columns:36px minmax(0,1fr);gap:12px}.chap .sn{width:32px;height:32px;font-size:15px}
-.lcs{display:flex;overflow-x:auto;gap:12px;scroll-snap-type:x mandatory;padding-bottom:6px}.lc{flex:0 0 78%;scroll-snap-align:start}.lc.soon{flex-basis:55%}
+.lcs{grid-template-columns:1fr;gap:10px}.lc .main{flex-direction:row}.lc img{width:38%;flex:none;border-bottom:0;border-right:1px solid #e4e1da;align-self:stretch;object-fit:cover}.lc .lt{padding:10px 12px;gap:3px;min-width:0}.lc .tt{font-size:16px}.lc .tk{font-size:13px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.lc .lp{top:6px;right:auto;left:6px;width:30px;height:30px;font-size:11px}.lc.soon{min-height:0;padding:10px 14px}
 .fpath .ph h2{font-size:34px}.chap h3{font-size:22px}.fpath .none{padding-left:0}}
 /* ---------- droonijalka shelf (brand: purple #3D195B, yellow #DAFF02) ---------- */
 body.jalka{--or:#3D195B}
