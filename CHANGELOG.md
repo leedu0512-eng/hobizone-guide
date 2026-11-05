@@ -2,6 +2,16 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.1.9 (5.11.2026)
+- New guide: The racing line. A user asked for it and shaped it slide by slide: the racing line is almost always the shortest and the smoothest, and a great lap time grows in four steps: slow down, make it short, make it smooth, then add speed and keep the line. Three pilots (point and shoot, intermediate, flow) through the same gates and through a ladder, the pre-turn, why a car and a drone both want to go straight, steady high throttle, less propwash, listening to the props, looking one or more gates ahead, and magnetic gates to flow.
+- The racing line uses a new kind of picture: gates drawn in 3D and the line drawn as a ribbon, where colour and width show speed and the ribbon tilts with the drone.
+
+## v1.1.8 (4.11.2026)
+- Kriss suggested a better Estonian name for talk 10: it is now „Lennuplatsi „Kollane“ reeglid“, and Kollane is called a lennuplats throughout.
+- Kriss added to How batteries work: a race pack is just big enough to fly 3 laps at full speed; 1C charges a pack in about an hour, most bigger LiPos are fine at 2C, 3C is dangerous and 5C is asking for a fire; an overcharged pack is a serious breach of race rules; and slide 2 now shows the real wiring: the battery's 2 wires go to an ESC, and the ESC drives a brushless motor with 3 wires, like the ones we fly.
+- Kriss added to Battery safety: don't keep old packs around, discharge them fully and take them away.
+- Kriss added a tip to The A1/A3 test: save your certificate numbers and expiry dates in an EDRL pilot profile on edrl.ee, and it reminds you before they run out.
+
 ## v1.1.7 (4.11.2026)
 - A user found the pictures in How batteries work and Battery safety too plain. Every slide in both talks is redrawn: each battery in its real shape (AA, car battery, phone battery, round 18650 and 21700 cells, LiFePO4, and the LiPo with its power and balance leads), a cell drawn as a fuel tank for the voltages, amp-hours and Wh drawn as battery-shaped tanks, the flame drawn to scale next to a person, a room seen from above for where to charge, and a picture for every step of what to do in a fire.
 - A user asked whether a LiPo really is a lithium-ion battery. The guides now say it more precisely: a LiPo (lithium-ion polymer) belongs to the lithium-ion family, but it isn't the same as the round Li-ion cells. The fire advice says why water is right: a LiPo has no lithium metal in it.
