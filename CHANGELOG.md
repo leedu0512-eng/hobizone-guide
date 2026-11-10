@@ -2,6 +2,19 @@
 
 What changed in the HOBIzone guides, and who asked for it. Thank you for every comment.
 
+## v1.2.1 (10.11.2026)
+- MaxDax added to Why does my video suck?: spectrum analysers have got cheap, and a small ESP32-C5 board with the free ESPsoup app on a phone scans the 5.8 GHz band. The guide no longer says to avoid the cheapest ones.
+- MaxDax added to Why does my video suck?: where the wires go matters. On an HDZero Race V3, a camera or antenna cable lying over the RF amplifier next to the antenna plug makes the VTX spray noise over almost three channels. Your own picture can look perfect while the pilots next to you get the noise.
+
+## v1.2.0 (5.11.2026)
+- New guide: What’s inside a drone. A user asked for it and shaped it: the eight ingredients of every drone (frame, motors and props, ESC, flight controller, receiver, camera, video transmitter, battery) and the three paths they sit on (control, video, power), shown on the club’s own kit drone, the one we build. A whoop has the same parts squeezed onto one board, and bigger drones such as a 7″ or a cinelifter split them up.
+- The parts are drawn flat and to scale from the real kit: the frame kit as it comes out of the box, and each part on a slide of its own (motors and props, ESC, flight controller, receiver, camera, video transmitter and antenna, battery), with what it does, what we have on our kit drone and how it looks on a whoop.
+- Peeter added to Why does my video suck?: power the camera and VTX from the flight controller’s filtered pads, not unfiltered pads or the battery, and keep the VTX and its wires away from the ESC, motor wires and battery leads.
+- Peeter: in English, Drones as sport now says drone soccer instead of droonijalka.
+- Peeter: the Tracks chapter is now called Racing (Võidusõit).
+- A user found the Estonian word for yaw: „tüür“. How a drone moves, How propellers work and The racing line now use it.
+- Peeter improved the Estonian of The racing line: „Neli sammu parima ringiajani“ and „oskuste jaoks“.
+
 ## v1.1.9 (5.11.2026)
 - New guide: The racing line. A user asked for it and shaped it slide by slide: the racing line is almost always the shortest and the smoothest, and a great lap time grows in four steps: slow down, make it short, make it smooth, then add speed and keep the line. Three pilots (point and shoot, intermediate, flow) through the same gates and through a ladder, the pre-turn, why a car and a drone both want to go straight, steady high throttle, less propwash, listening to the props, looking one or more gates ahead, and magnetic gates to flow.
 - The racing line uses a new kind of picture: gates drawn in 3D and the line drawn as a ribbon, where colour and width show speed and the ribbon tilts with the drone.
